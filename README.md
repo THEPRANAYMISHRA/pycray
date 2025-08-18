@@ -1,6 +1,3 @@
-Sure — here is the **proper markdown** snippet you can paste directly into your `README.md`:
-
-````markdown
 # Mini Event Manager
 
 A simple client-side event management page built using **Next-Forge Turbo template** with  
