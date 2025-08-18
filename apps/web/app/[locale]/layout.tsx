@@ -27,13 +27,13 @@ const RootLayout = async ({ children, params }: RootLayoutProperties) => {
       suppressHydrationWarning
     >
       <body>
-        <DesignSystemProvider>
+        {/* <DesignSystemProvider> */}
           <Header dictionary={dictionary} />
           {children}
           <Footer />
-        </DesignSystemProvider>
+        {/* </DesignSystemProvider>
         <Toolbar />
-        <CMSToolbar />
+        <CMSToolbar /> */}
       </body>
     </html>
   );
